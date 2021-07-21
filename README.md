@@ -61,7 +61,7 @@ Ejecutar sobre un dispositivo Android
 cordova run android
 ```
 
-* La carpeta "chamilo-app" debe ser copiada en el directorio plugin de la plataforma chamilo.
+* La carpeta "chamilo_app" debe ser copiada en el directorio plugin de la plataforma chamilo.
 * Para poder visualizar las imágenes de las secciones de mensajes, descripción, anuncios y foros, debemos modificar el fichero .htaccess de la carpeta "courses".
 ```
 RewriteCond %{HTTP_USER_AGENT} !android [NC]
